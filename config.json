@@ -1,6 +1,6 @@
 {
   "twrp_url": "https://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni",
-  "twrp_branch": "twrp-9.0",
+  "twrp_branch": "twrp-8.1",
   "git_username": "lbule",
   "git_email": "9998507+lbule@users.noreply.github.com",
   "use_own_dt": true,
@@ -11,6 +11,6 @@
   "device_code": "k10",
   "fix_product": true,
   "fix_misscom": true,
-  "fix_busybox": false,
-  "fix_branch": "android-9.0"
+  "fix_busybox": true,
+  "fix_branch": "android-8.1"
 }
