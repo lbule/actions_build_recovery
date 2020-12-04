@@ -9,7 +9,7 @@
   "dt_remote": "github",
   "dt_path": "device/kuliao/k10",
   "device_code": "k10",
-  "fix_product": true,
+  "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
   "fix_branch": "android-8.1"
