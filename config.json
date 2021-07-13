@@ -1,5 +1,5 @@
 {
-  "twrp_url": "https://github.com/mohammad92/platform_manifest_twrp_aosp",
+  "twrp_url": "github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp",
   "twrp_branch": "twrp-11",
   "git_username": "lbule",
   "git_email": "9998507+lbule@users.noreply.github.com",
